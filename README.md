@@ -6,7 +6,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=console.log(%22Hello%2C%20World!%22);&center=true&size=27&color=58A6FF">
 </h1>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=435&lines=%E6%88%91%E6%AD%A3%E5%9C%A8%E6%80%9D%E8%80%83...;%E6%80%8E%E4%B9%88%E5%8A%AA%E5%8A%9B%E6%89%8D%E8%83%BD%E6%9B%B4%E5%88%9B%E6%96%B0%EF%BC%9F;%E5%8F%AF%E8%83%BD%E5%BE%88%E9%9A%BE%EF%BC%8C%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E5%B0%9D%E8%AF%95...">
+</h3>
 ---
 
 - 🔭 I want to **build something cool**.

@@ -22,19 +22,20 @@
 ### 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,electron,unocss,element,vite,vscode&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,bootstrap,mysql,redis,git,idea&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=maven&theme=light" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SpringCloud-34A853?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MyBatis-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EasyExcel-1DA1F2?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nacos-00B8D4?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-</p>
+<!-- 已支持图标的用 skillicons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,electron,vite,vscode&theme=light" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,git,idea&theme=light" /><br/>
+
+<!-- 自定义徽章补充 -->
+<img src="https://img.shields.io/badge/UnoCSS-333?style=flat&logo=tailwindcss&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/EasyExcel-1DA1F2?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Nacos-00B8D4?style=flat&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+
+</div>
 
 
 ---

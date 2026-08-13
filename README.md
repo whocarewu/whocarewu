@@ -1,61 +1,171 @@
-<h2 align="center">Hi there 👋, I'm <strong>whocarewu</strong></h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70" alt="Hello Gif">
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=27&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C%20World!%22);;Welcome+to+my+GitHub!+🚀;Keep+learning.+Keep+building.">
-</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&center=true&vCenter=true&width=450&color=38BDF8&lines=%E6%88%91%E6%AD%A3%E5%9C%A8%E6%80%9D%E8%80%83...;%E6%80%8E%E4%B9%88%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%8F%98%E5%BC%BA%EF%BC%9F;%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%AE%B9%E6%98%93;%E4%BD%86%E6%88%91%E6%84%BF%E6%84%8F%E5%B0%9D%E8%AF%95%E3%80%82">
-</h3>
-
----
-
-## 🌟 About Me
-
-- 🔭 正在构建一些 **有趣、有价值、有技术含量** 的项目  
-- 🌱 学习方向：**Java / Spring Cloud / Vue / Svelte / 前端工程化**  
-- 💬 欢迎交流：**Java、Vue、SpringBoot、架构设计**  
-- 📫 联系我：**1324940338@qq.com**  
-- 🏃‍♂️ 我喜欢跑步 —— **走るのが好きです。**  
-
----
-
-## 🛠️ Tech Stack
+<!-- =========================
+     👋 Hello
+========================= -->
 
 <div align="center">
 
-### 🔹 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,electron&theme=light" /><br/>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="72" />
 
-### 🔹 **Backend**
-<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light" /><br/>
+Hi, I'm whocarewu 👋
 
-### 🔹 **Database & Cache**
-<img src="https://skillicons.dev/icons?i=mysql,redis&theme=light" /><br/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=console.log(%22Hello%2C+World!%22);Building+things+I+actually+like.;Keep+learning.+Keep+building.+%F0%9F%9A%80"
+alt="Typing SVG"
+/>
 
-### 🔹 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=light" />
+<br/>
+
+Java Backend · Frontend · Full Stack Explorer
+
+<sub>
+喜欢写代码，也喜欢把东西做得更好看一点。<br/>
+走るのが好きです。🏃
+</sub>
+
+<br/><br/>
+
+<a href="mailto:1324940338@qq.com">
+  <img src="https://img.shields.io/badge/Email-1324940338%40qq.com-2F81F7?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/whocarewu">
+  <img src="https://img.shields.io/badge/GitHub-whocarewu-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SpringCloud-34A853?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MyBatis-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nacos-00B8D4?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-EasyExcel-1DA1F2?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat&logo=element&logoColor=white" />
-  <img src="https://img.shields.io/badge/UnoCSS-333?style=flat&logo=tailwindcss&logoColor=38bdf8" />
-</p>
+🪄 About
 
----
+public class Whocarewu {
 
-## 🚀 Keep Exploring · Keep Creating  
-> **永远保持热爱、保持好奇，把喜欢的事情做到极致。**
+    String role = "Full Stack Developer";
 
+    String[] learning = {
+        "Java",
+        "Spring Cloud",
+        "Vue",
+        "Svelte",
+        "Frontend Engineering"
+    };
+
+    String currentGoal =
+        "Build something interesting, useful and well-designed.";
+
+    boolean keepLearning = true;
+}
+
+🔭 正在做一些 有趣、有价值、有技术含量 的项目
+
+🌱 持续探索 Java / Spring Cloud / Vue / Svelte / 前端工程化
+
+💡 对 架构设计、工程化、产品体验 很感兴趣
+
+🏃 写不动代码的时候，我一般去跑步
+
+🌏 Keep curious. Keep moving.
+
+<br/>
+
+🧩 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="140"><b>Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,electron&theme=light" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle&theme=light" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mysql,redis&theme=light" />
+</td>
+</tr>
+
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=light" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-2F81F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Nacos-00B8D4?style=flat-square&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Element_Plus-409EFF?style=flat-square&logo=element&logoColor=white" />
+<img src="https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white" />
+
+</div>
+
+<br/>
+
+📊 GitHub
+
+<div align="center">
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=whocarewu&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=38BDF8&text_color=8B949E"
+/>
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=whocarewu&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E"
+/>
+
+</div>
+
+<br/>
+
+🌱 Now
+
+<div align="center">
+
+正在思考，怎么一点一点变得更强。
+
+不急着证明什么。
+把感兴趣的东西学明白，把想做的东西真正做出来。
+
+<br/>
+
+Think.   →   Learn.   →   Build.   →   Repeat.
+
+<br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=8B949E&center=true&vCenter=true&width=500&lines=Stay+curious.;Make+something+interesting.;See+you+in+the+next+commit.+%E2%9C%A8"
+/>
+
+</div>
+
+<div align="center">
+
+Keep Exploring · Keep Creating
+
+<sub>永远保持热爱，也永远保持一点好奇。</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=whocarewu&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
